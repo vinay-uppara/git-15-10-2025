@@ -4,3 +4,9 @@ git process we have a 3 stages
   # working directory
   # staging area
   # local repository
+in git we have main three commands
+#git init 
+#git add 
+#git commit 
+#git push
+
