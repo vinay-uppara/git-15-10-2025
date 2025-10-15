@@ -1,6 +1,7 @@
 git init 
 git add .
-git commit -m ""
+
+git commit -m "hwqihje"
 fit push 
 git pull
 
