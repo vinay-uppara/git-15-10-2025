@@ -7,6 +7,6 @@ git process we have a 3 stages
 in git we have main three commands
 #git init 
 #git add 
-#git commit -m"file1"
+#git commit -m"file1 updated again git developer111"
 #git push
 
