@@ -1,0 +1,4 @@
+Git issues:
+#git pull --ff-only
+#Git pull --no-rebase
+#git pull --rebase
